@@ -2,14 +2,14 @@
 ## How i compiled linux kernel to source
 
 ### Step 1:
-I install essentials for compiling linux from source
+Install essentials for compiling linux from source
 
 ```
 sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
 ```
 
 ### Step 2:
-clone a recent stable linux kernel repository and checked out linux-5.12.y branch
+Clone a recent stable linux kernel repository and checked out linux-5.12.y branch
 
 ```
 git clone git://git.kernel.org/pub/scm/linux/kernel/git/stable/linux-stable.git linux_stable
@@ -67,9 +67,9 @@ make -j2 all	-
 make -j2 		  - this specifies the number of threads to run concurrently for the compilation process
 time make		  - will time your compilation process
 ```
-this will compile for the host architecture by default.
+This will compile for the host architecture by default.
 
-if you want to compile for a different architecture, arm cortex A8 for instance
+If you want to compile for a different architecture, arm cortex A8 for instance
 
 ``time make -j4 ARCH=arm CROSS_COMPILE=arm-cortex_a8-linux-gnueabihf- zImage``
 
