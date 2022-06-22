@@ -1,6 +1,6 @@
 layout: page
 title: "Compiling Linux source tree"
-permalink: /https://paulnwoko.github.io/My-Linux-learning-journey/Compiling-Linux-kernel-from-source.md/
+permalink: https://paulnwoko.github.io/My-Linux-learning-journey/Compiling-Linux-kernel-from-source.md
 
 
 ## How i compiled linux kernel to source
