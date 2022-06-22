@@ -1,7 +1,7 @@
 ## How i compiled linux kernel to source
 
 ### Step 1:
-###I install essentials for compiling linux from source
+I install essentials for compiling linux from source
 
 ```
 sudo apt-get install build-essential libncurses-dev bison flex libssl-dev libelf-dev
