@@ -4,34 +4,20 @@ You can use the [editor on GitHub](https://github.com/paulnwoko/My-Linux-learnin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## Welcome to the My-Linux-learning-journey wiki!
+been playing with Linux kernel lately, trying to to understand how the kernel works and how to customize and compile it for different hardware architectures. So far i have made some real progress. What you see here are some of the notes I took while experimenting and learning about Linux kernel development and maintenance.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My appreciation goes Linux foundation for providing a free basic introductory [course](https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information?page=1) on Linux kernel development. the course explains the kernel development cycle and coding ethics and other very useful topics that can help one get started as a contributor.
 
-```markdown
-Syntax highlighted code block
+My aim is to develop solid understanding of the Linux kernel and develop skills that will enable me pursue a long term career related to developing and maintaining Linux and Embedded Linux systems
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* [How I compiled Linux kernel from upstream source on my Ubuntu machine](https://github.com/paulnwoko/My-Linux-learning-journey/wiki/How-i-compiled-linux-kernel-to-source)
 
-1. Numbered
-2. List
+* [Modifying a driver in the kernel source tree and re-configuring it as a module or as builtin](https://github.com/paulnwoko/My-Linux-learning-journey/wiki/Edit-Load-and-Unload-drivers-in-linux-kernel-source-tree)
 
-**Bold** and _Italic_ and `Code` text
+* [Selective compilation](https://github.com/paulnwoko/My-Linux-learning-journey/wiki/Selective-Driver,-Module-and-Source-Compilation)
 
-[Link](url) and ![Image](src)
-```
+* [Generating and sending patches to maintainers for review](https://github.com/paulnwoko/My-Linux-learning-journey/wiki/Generating-and-Sending-Patch)
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paulnwoko/My-Linux-learning-journey/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+* [Writing a loadable kernel module]()
