@@ -1,4 +1,4 @@
-## Welcome to the My-Linux-learning-journey wiki!
+## Welcome to the My-Linux-learning-journey!
 been playing with Linux kernel lately, trying to to understand how the kernel works and how to customize and compile it for different hardware architectures. So far i have made some real progress. What you see here are some of the notes I took while experimenting and learning about Linux kernel development and maintenance.
 
 My appreciation goes Linux foundation for providing a free basic introductory [course](https://trainingportal.linuxfoundation.org/learn/course/a-beginners-guide-to-linux-kernel-development-lfd103/course-introduction/course-information?page=1) on Linux kernel development. the course explains the kernel development cycle and coding ethics and other very useful topics that can help one get started as a contributor.
