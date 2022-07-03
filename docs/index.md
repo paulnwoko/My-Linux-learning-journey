@@ -2,8 +2,6 @@
 
 You can use the [editor on GitHub](https://github.com/paulnwoko/My-Linux-learning-journey/edit/branch/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
 ## Welcome to the My-Linux-learning-journey wiki!
 been playing with Linux kernel lately, trying to to understand how the kernel works and how to customize and compile it for different hardware architectures. So far i have made some real progress. What you see here are some of the notes I took while experimenting and learning about Linux kernel development and maintenance.
 
