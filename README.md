@@ -15,3 +15,6 @@ My aim is to develop solid understanding of the Linux kernel and develop skills 
 * [Generating and sending patches to maintainers for review](https://github.com/paulnwoko/My-Linux-learning-journey/wiki/Generating-and-Sending-Patch)
 
 * [Writing a loadable kernel module]()
+
+* [Shell scripting]()
+
